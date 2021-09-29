@@ -16,6 +16,14 @@ I worked as the primary developer, PM, and motivator.
 
 I learned how to use python/flask development. I learned how to use pip to set up a Crypto environment using python (pycryptodome). I also learned the core functionality of crypto.
 
+## What Worked
+
+The functionality of the website works, and the concept i think is really interesting. I'm able to send a bunch of money to anyone, and have it correctly displaed on the blockchain.
+
+## What Didn't work:
+
+Since it's only a local program, no changes are permanent. When the program ends, so does the program. There are also small issues with self-mining that I couldn't fix. If a person sends 1 coin to another person, they can mine that block and get 10 as a reward. I could lower the reward or enforce a minimum coin amount but that wouldn't be in the spirit of free trading on the blockchain.
+
 ## Authors
 
 Jack Vasu, Template by Nathan Ang
