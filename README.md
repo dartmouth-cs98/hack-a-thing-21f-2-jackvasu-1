@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dartcoin: A Crypto Framework
 
 
