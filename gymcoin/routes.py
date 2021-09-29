@@ -52,7 +52,7 @@ def node():
 
 @app.route("/purchase")
 def purchase():
-    return render_template('purchase.html', title = "Purchase");
+    return render_template('moreInfo.html', title = "Purchase");
 
 @app.route("/register", methods=['GET', 'POST'])
 def register():
