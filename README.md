@@ -7,6 +7,7 @@ I built a (local) custom cryptocurrency built on flask and python.
 
 Include some screenshots.
 [How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+[blockchain.png]
 
 ## Who Did What?
 
