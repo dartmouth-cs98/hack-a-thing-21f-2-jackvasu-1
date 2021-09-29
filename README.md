@@ -19,7 +19,7 @@ I worked as the primary developer, PM, and motivator.
 
 ## What you learned
 
-I learned how to use python/flask development. I learned how to use pip to set up a Crypto environment using python (pycryptodome). I also learned the core functionality of crypto.
+I learned how to use python/flask development. I learned how to use pip to set up a Crypto environment using python (pycryptodome). I also learned the core functionality of crypto. This could be useful for flask in any development setting. 
 
 ## What Worked
 
