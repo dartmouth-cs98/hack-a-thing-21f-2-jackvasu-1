@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hack Technology / Project Attempted
 
 
@@ -23,3 +24,4 @@ TODO: list of authors
 ## Acknowledgments
 
 TODO: cite any tutorials followed here
+=======
