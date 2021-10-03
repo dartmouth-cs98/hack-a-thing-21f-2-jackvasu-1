@@ -27,7 +27,7 @@ The functionality of the website works, and the concept i think is really intere
 
 ## What Didn't work:
 
-Since it's only a local program, no changes are permanent. When the program ends, so does the program. There are also small issues with self-mining that I couldn't fix. If a person sends 1 coin to another person, they can mine that block and get 10 as a reward. I could lower the reward or enforce a minimum coin amount but that wouldn't be in the spirit of free trading on the blockchain.
+Since it's only a local program, no changes are permanent. When the program ends, so does the blockchain along with its data. There are also small issues with self-mining that I couldn't fix. If a person sends 1 coin to another person, they can mine that block and get 10 as a reward. I could lower the reward or enforce a minimum coin amount but that wouldn't be in the spirit of free trading on the blockchain.
 
 ## Authors
 
